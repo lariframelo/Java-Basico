@@ -7,7 +7,7 @@ package vetor01;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class Vetor01 {
 
