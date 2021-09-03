@@ -7,7 +7,7 @@ package operadorternario;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class OperadorTernario {
 
