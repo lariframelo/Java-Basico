@@ -9,7 +9,7 @@ import java.awt.Font;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TelaGenio extends javax.swing.JFrame {
 
