@@ -7,7 +7,7 @@ package tiposprimit;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TiposPrimit {
 
