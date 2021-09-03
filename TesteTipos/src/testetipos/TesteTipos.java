@@ -7,7 +7,7 @@ package testetipos;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TesteTipos {
 
