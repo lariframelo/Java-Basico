@@ -7,7 +7,7 @@ package cursoemvideo.voto;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TelaVoto extends javax.swing.JFrame {
 
