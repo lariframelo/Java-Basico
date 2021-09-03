@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class ProgramaMedia {
 
