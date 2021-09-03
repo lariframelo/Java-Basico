@@ -10,7 +10,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TelaVetor extends javax.swing.JFrame {
     
