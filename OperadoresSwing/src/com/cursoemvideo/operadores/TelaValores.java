@@ -7,7 +7,7 @@ package com.cursoemvideo.operadores;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TelaValores extends javax.swing.JFrame {
 
