@@ -7,7 +7,7 @@ package javaapplication40;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class JavaApplication40 {
 
