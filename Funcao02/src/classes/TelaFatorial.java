@@ -7,7 +7,7 @@ package classes;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TelaFatorial extends javax.swing.JFrame {
 
