@@ -7,7 +7,7 @@ package repeticao01;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class Repeticao01 {
 
