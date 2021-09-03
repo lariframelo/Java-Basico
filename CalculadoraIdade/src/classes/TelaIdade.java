@@ -13,7 +13,7 @@ import java.util.Date;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TelaIdade extends javax.swing.JFrame {
 
