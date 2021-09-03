@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class ExercicioRepita {
 
