@@ -7,7 +7,7 @@ package contador01;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class Contador01 {
 
