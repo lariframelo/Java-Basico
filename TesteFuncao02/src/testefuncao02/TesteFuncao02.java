@@ -8,7 +8,7 @@ package testefuncao02;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class TesteFuncao02 {
 
