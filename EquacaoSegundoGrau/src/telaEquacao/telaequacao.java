@@ -7,7 +7,7 @@ package telaEquacao;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class telaequacao extends javax.swing.JFrame {
 
