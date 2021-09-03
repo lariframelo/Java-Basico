@@ -7,7 +7,7 @@ package funcao01;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class Funcao01 {
 
