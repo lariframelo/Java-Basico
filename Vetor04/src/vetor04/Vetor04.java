@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class Vetor04 {
 
