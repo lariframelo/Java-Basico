@@ -7,7 +7,7 @@ package operadoreslogicos;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo 
  */
 public class OperadoresLogicos {
 
