@@ -7,7 +7,7 @@ package comparacaostring;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class ComparacaoString {
 
