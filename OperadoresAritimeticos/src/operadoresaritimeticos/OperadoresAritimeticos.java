@@ -7,7 +7,7 @@ package operadoresaritimeticos;
 
 /**
  *
- * @author joao.melo
+ * @author lariframelo
  */
 public class OperadoresAritimeticos {
 
